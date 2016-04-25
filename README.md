@@ -7,4 +7,4 @@ Simple scripts you can run on your Rasperry Pi to make use of the GPIO.
 3. Intruder detector
 ...and many more. Enjoy
 
-simply download each individual file and run `sudo node filename.js` on your raspberry pi. You will need to have node installed. 
+simply download each individual file and run `sudo node <filename.js>` on your raspberry pi. You will need to have node installed. 
